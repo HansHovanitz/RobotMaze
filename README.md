@@ -12,4 +12,4 @@ To play the game:
 Make your own maze:
 The index.html file is setup in such a way that lets you easily alter the maze (size, where walls are, start/end point). Edit the script (starting on line #20) to see what sort of maze you can make!
 
-More discussion and images can be seen here: [Robot Maze](hanshovanitz.com/post/maze/)
+More discussion and images can be seen here: [Robot Maze](http://hanshovanitz.com/post/maze/)
